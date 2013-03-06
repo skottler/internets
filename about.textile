@@ -7,7 +7,7 @@ title: About
 <div class="post">
 h1. The Author
 
-My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, hence the domain. I currently live in Manhattan, New York City. I grew up around Washington, DC, and I've lived in San Francisco, Portland (Oregon), and Los Angeles.
+My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, hence the domain. I currently live in Manhattan, New York City. I grew up around Washington, DC, and I've lived in San Francisco, Portland (Oregon), and Los Angeles. I live with two cats, an "Abyssinian":http://en.wikipedia.org/wiki/Abyssinian_(cat) mix named Clementine and a "tortoiseshell":http://en.wikipedia.org/wiki/Tortoiseshell_cat named Beatrix.
 
 As of early 2013, I am the cofounder and CTO of "Breather":http://www.breather.com/.
 

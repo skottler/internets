@@ -67,5 +67,5 @@ You can find me on a variety of social web sites; my username is usually "al3x".
 
 h1. Contact
 
-Feel free to email me. <a href="mailto:al3x@al3x.net">al3x@al3x.net</a> is my personal address, while <a href="alex@breather.com">alex@breather.com/</a> is my current work address.
+Feel free to email me. <a href="mailto:al3x@al3x.net">al3x@al3x.net</a> is my personal address, while <a href="mailto:alex@breather.com">alex@breather.com</a> is my current work address.
 </div>

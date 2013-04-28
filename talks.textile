@@ -1,0 +1,17 @@
+---
+layout: default
+title: Talks
+---
+<h2 id="intro">A list of material output.</h2>
+
+<div class="post">
+
+h1. Upcoming Talks & Conferences
+
+_None scheduled at this time._
+
+h1. Previous Talks & Conferences
+
+* _November 2012, New York_ -- "Splitting up your web app":http://www.slideshare.net/al3x/splitting-up-your-web-app
+  A tech talk at the offices of "Paperless Post":http://paperlesspost.com/, drawing from experiences working with students at "Hacker School":https://www.hackerschool.com/.
+</div>

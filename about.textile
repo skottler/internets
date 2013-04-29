@@ -5,18 +5,15 @@ title: About
 <h2 id="intro">About the author and this site.</h2>
 
 <div class="post">
-h1. The Author
-
-h1. The Site
-
-h1. Elsewhere
-
 You can find me on a variety of social web sites; my username is "skottler" or "samkottler". There aren't many Kottler's in the world so finding me should be easy!
 
-* "GitHub":http://github.com/al3x -- code, waiting for you to improve it.
-* "LinkedIn":http://www.linkedin.com/in/alexanderpayne -- all business.
-* "Twitter":http://twitter.com/al3x -- brief status updates and observations.
+* "GitHub":http://github.com/skottler -- syntax, likely invalid
+* "LinkedIn":http://www.linkedin.com/in/samkottler -- careers and such
+* "Twitter":http://twitter.com/samkottler -- for yelling at computers (and sometimes people)
 
 h1. Contact
+
+* Hit me up on Twitter
+* Email "me":mailto:shk@linux.com
 
 </div>

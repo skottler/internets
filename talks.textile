@@ -8,10 +8,14 @@ title: Talks
 
 h1. Upcoming Talks & Conferences
 
-_None scheduled at this time._
+* _May 4th, 2013 - New Brunswick, NJ_ -- "Provisioning and systems management using Foreman":http://lopsa-east.org/2013/
+
+* _June, 2013 - San Jose, CA_ -- "Configuration management anti-patterns":http://velocityconf.com/
+
+* _August, 2013 - San Francisco, CA_ -- "Running at Scale: Practical Performance Tuning with Puppet":http://puppetconf.com/
 
 h1. Previous Talks & Conferences
 
-* _November 2012, New York_ -- "Splitting up your web app":http://www.slideshare.net/al3x/splitting-up-your-web-app
-  A tech talk at the offices of "Paperless Post":http://paperlesspost.com/, drawing from experiences working with students at "Hacker School":https://www.hackerschool.com/.
+* A work in progress...
+
 </div>

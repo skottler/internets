@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Why the Thiel Fellowship Isn't For Me"
+---
+
+h1. {{ page.title }}
+
+I've never enjoyed school. I get good grades but it's a constant grind to listen to professors tell me what it's like out in the "real world"; I'm already here. College is far more an exercise in social growth than learning about algorithms, political advertising, or heaps and stacks. I have ideas that are much bigger than what I'm working on right now and would love the chance to get to work on them full time. I was an early employee at a number of successful startups. I'm 19.
+
+I seem like a perfect candidate.
+
+And have seriously considered applying for the past few months. After conversations with a few current fellows and a members of the tech community in New York and SF I've decided it isn't the right choice.
+
+As much as I'd like to think my experiences speak louder than a college degree, not having a degree will hurt me in the future. I would have to return to school after the fellowship ended.
+
+One of the points I heard from the current fellows was a lack of focus. Two years is too long to remain focused on a single idea; goals from the beginning of the fellowship quickly start to get muddled and convoluted. I want to build products that can be released in a few months to gather feedback without feeling pressure to elongate the project.
+
+I would love to have the opportunity to pursue an idea or two over the course of a number of months; maybe $25k and 6 months would be more suitable for building tech startups than the current format of the fellowship?

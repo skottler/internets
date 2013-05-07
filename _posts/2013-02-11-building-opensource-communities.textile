@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Building Successful Open Source Communities"
+---
+
+h1. {{ page.title }}
+
+I've been involved in open source for a while and have worked in a number of OSS communities; some were wildly successfully and others fizzled out. The takeaway, though, is that there are a number of things that the creators of a community can do to make it a vibrant place for users and contributors alike.
+
+h2. Distribute maintainership
+
+Oddly, this is probably the most important thing. People want to help and giving them a direct role in software maintenance gives them a sense of ownership in what the community is producing.
+
+I've seen this done a number of different ways. One of the more common methods is to give commit to anyone who has been shown to be competent by submitting patches and reviewing the work of others. It seems to work well as long as the barrier to getting commit access isn't too high - it should be attainable. I particularly like this model because it means that people who want to step up in the community take an active role in developing a relationship with existing maintainers. Debian is a great example of this; community members sponsor people they've been working with to become DD's.
+
+The Jenkins project gives commit access to anyone who asks for it, assuming that people will be inherently good and revoking access if they cause problems or prove themselves incompetent. This model is successful because Jenkins is modular enough that giving access to unknown committers for a specific plugin is low-risk.
+
+h2. Spread knowledge
+
+People want to help, but often don't know where to get started. When bugs get filed or issues get reported in IRC, push back. Explain how systems work to others and the reason why things are they way they are. Guide, answer questions, and generally act as a resource for turning users into contributors. It'll quickly become obvious who is "getting it" and who isn't; those in the former category are good targets for maintainer status.
+
+h2. Let stakeholders flourish
+
+You've distributed knowledge and have some awesome new maintainers - now make them do some work! Point to them when people ask questions about the specific subsystem or part of the software.
+
+This works well for a few reasons. First, it means that people see that person answering questions about specific stuff and will completely circumvent you (as the project's creator), freeing you up to do things like long term planning and architecture work. Additionally, it makes people more proud of what they're working on; users with implementation questions prove the usefulness of the code maintainers write.
